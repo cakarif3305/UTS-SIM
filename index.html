@@ -103,7 +103,7 @@
         <button class="btn">See More Now</button>
     </section>
     <footer>
-        <p><b>hotcoffee</b> 2022 copyright all rights reserved</p>
+        <p><b>Cakarif</b> 2022 copyright all rights reserved</p>
         <div>
             <img src="assets/instagram.svg" alt="instagram">
             <img src="assets/twitter.svg" alt="twitter">
